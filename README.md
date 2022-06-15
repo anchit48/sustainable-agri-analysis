@@ -1,4 +1,4 @@
-## Background: 
+## Description: 
 Purpose of this case-study is to identify the important markets across the Globe, that has a high agricultural participation and produces most of the cereal in the world. Based on the World Bank Data, we have generated the country specific production metrics in terms of the Data Features that exists in #Data Description
 ## Objective: 
 To extract actionable insights that will enable Business growth in terms of Fertilizer Production & Optimization
